@@ -4,6 +4,9 @@
 Массивы и хеширование ("Array\Коллекции с Hash"): \
 [217] Easy. Contains Duplicate
 
+Два указателя ("Two Pointers"): \
+[125] Easy. Valid Palindrome
+
 Sliding Window: \
 [003] Medium. Longest Substring Without Repeating Characters \
 0000000000000000000000000000000000000000000000000000000000000000 
