@@ -7,6 +7,9 @@
 Два указателя ("Two Pointers"): \
 [125] Easy. Valid Palindrome
 
+Стэк (Stack): \
+[234] Easy. Palindrome Linked List
+
 Sliding Window: \
 [003] Medium. Longest Substring Without Repeating Characters \
 0000000000000000000000000000000000000000000000000000000000000000 
