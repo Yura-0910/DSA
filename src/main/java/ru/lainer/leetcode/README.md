@@ -10,6 +10,9 @@
 Стэк (Stack): \
 [234] Easy. Palindrome Linked List
 
+Бин. Поиск: \
+[035] Easy. Search Insert Position
+
 Sliding Window: \
 [003] Medium. Longest Substring Without Repeating Characters \
 0000000000000000000000000000000000000000000000000000000000000000 
