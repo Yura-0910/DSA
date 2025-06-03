@@ -7,13 +7,14 @@
 Два указателя ("Two Pointers"): \
 [125] Easy. Valid Palindrome
 
-Стэк (Stack): \
+Стек (Stack): \
 [234] Easy. Palindrome Linked List
 
 Бин. Поиск: \
 [035] Easy. Search Insert Position
 
-Sliding Window: \
+Cкользящие окна: \
+[219] Easy. Contains Duplicate II \
 [003] Medium. Longest Substring Without Repeating Characters \
 0000000000000000000000000000000000000000000000000000000000000000 
 
@@ -36,9 +37,9 @@ https://leetcode.com/problems/valid-parentheses/description
 https://leetcode.com/problems/palindrome-linked-list/description
 
 Бин. Поиск: \
-https://leetcode.com/problems/search-insert-position/description
-https://leetcode.com/problems/sqrtx/description
-https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description
+https://leetcode.com/problems/search-insert-position/description \
+https://leetcode.com/problems/sqrtx/description \
+https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description \
 https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description 
 
 Cкользяцие окна: \
