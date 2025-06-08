@@ -16,6 +16,9 @@
 Cкользящие окна: \
 [219] Easy. Contains Duplicate II \
 [003] Medium. Longest Substring Without Repeating Characters \
+
+Связный список (Linked List): \
+[021] Easy. Merge Two Sorted Lists
 0000000000000000000000000000000000000000000000000000000000000000 
 
 Список задач на каждый алгоритм:: https://t.me/siliconchannel/71 
