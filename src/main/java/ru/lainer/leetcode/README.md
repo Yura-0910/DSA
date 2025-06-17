@@ -19,6 +19,12 @@ Cкользящие окна: \
 
 Связный список (Linked List): \
 [021] Easy. Merge Two Sorted Lists
+
+Деревья (Tree): \
+[226] Easy. Invert Binary Tree
+
+BFS/DFS: \
+[226] Easy. Invert Binary Tree 
 0000000000000000000000000000000000000000000000000000000000000000 
 
 Список задач на каждый алгоритм:: https://t.me/siliconchannel/71 
@@ -82,13 +88,13 @@ https://leetcode.com/problems/max-area-of-island/
 https://leetcode.com/problems/clone-graph/
 
 ДП: \
-https://leetcode.com/problems/climbing-stairs/
-https://leetcode.com/problems/min-cost-climbing-stairs/
-https://leetcode.com/problems/unique-paths/
-https://leetcode.com/problems/longest-common-subsequence/
+https://leetcode.com/problems/climbing-stairs/ \
+https://leetcode.com/problems/min-cost-climbing-stairs/ \
+https://leetcode.com/problems/unique-paths/ \
+https://leetcode.com/problems/longest-common-subsequence/ 
 
 Интервалы: \
-https://leetcode.com/problems/insert-interval/
+https://leetcode.com/problems/insert-interval/ \
 https://leetcode.com/problems/merge-intervals/
 
 Жадные алгоритмы: \
