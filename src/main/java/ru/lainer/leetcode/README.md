@@ -24,7 +24,8 @@ Cкользящие окна: \
 [226] Easy. Invert Binary Tree
 
 BFS/DFS: \
-[226] Easy. Invert Binary Tree 
+[104] Easy. Maximum Depth Of Binary Tree \
+[226] Easy. Invert Binary Tree
 0000000000000000000000000000000000000000000000000000000000000000 
 
 Список задач на каждый алгоритм:: https://t.me/siliconchannel/71 
