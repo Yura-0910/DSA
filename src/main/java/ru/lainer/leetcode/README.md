@@ -26,6 +26,11 @@ Cкользящие окна: \
 BFS/DFS: \
 [104] Easy. Maximum Depth Of Binary Tree \
 [226] Easy. Invert Binary Tree
+
+Backtracking: \
+[78] Medium. Subsets \
+[00] Решения разных задач с использованием алгоритма "BackTracking":: \
+https://leetcode.com/problems/subsets/solutions/27281/a-general-approach-to-backtracking-questions-in-java-subsets-permutations-combination-sum-palindrome-partitioning/ \
 0000000000000000000000000000000000000000000000000000000000000000 
 
 Список задач на каждый алгоритм:: https://t.me/siliconchannel/71 
@@ -79,8 +84,8 @@ https://leetcode.com/problems/combination-sum/description/
 https://leetcode.com/problems/combination-sum-ii/description/
 
 Куча/Очередь с приоритетом: \
-https://leetcode.com/problems/kth-largest-element-in-a-stream/description/
-https://leetcode.com/problems/last-stone-weight/description/
+https://leetcode.com/problems/kth-largest-element-in-a-stream/description/ \
+https://leetcode.com/problems/last-stone-weight/description/ \
 https://leetcode.com/problems/k-closest-points-to-origin/description/ 
 
 Графы: \
@@ -104,3 +109,19 @@ https://leetcode.com/problems/jump-game/
 
 <img src="theme.png">
 
+Вот отсюда:: https://habr.com/ru/articles/932998/ \
+[01] Два указателя; \
+[02] Скользящее окно; \
+[03] Быстрый и медленный указатель (поиск цикла); \
+[04] Стек для скобок / Монотонный стек; \
+[05] Бинарный поиск (по индексу/по ответу); \
+[06] Хеш-таблицы для подсчета/поиска; \
+[07] Обратный отсчет; \
+[08] Обход в ширину (BFS) / Обход в глубину (DFS) (по дереву/по графу); \
+[09] Динамическое программирование (таблица и рекурсия с мемоизацией); \
+[10] Поиск k наибольших элементов (куча/приоритетная очередь); \
+[11] Жадные алгоритмы / стратегии; \
+[12] Префиксные суммы / Массив разностей. 
+
+Еще есть RoadMap по алгоритмам:: \
+Храниться тут:: /home/source/Документы/DSA-28.06.2025/Pro_AlgoRoadMap.pdf
