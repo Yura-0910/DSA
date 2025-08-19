@@ -28,9 +28,12 @@ BFS/DFS: \
 [226] Easy. Invert Binary Tree
 
 Backtracking: \
-[78] Medium. Subsets \
-[00] Решения разных задач с использованием алгоритма "BackTracking":: \
+[078] Medium. Subsets \
+[000] Решения разных задач с использованием алгоритма "BackTracking":: \
 https://leetcode.com/problems/subsets/solutions/27281/a-general-approach-to-backtracking-questions-in-java-subsets-permutations-combination-sum-palindrome-partitioning/ \
+
+Куча/Очередь с приоритетом (Heap (Priority Queue)): \
+[703] Easy. Kth Largest Element in a Stream
 0000000000000000000000000000000000000000000000000000000000000000 
 
 Список задач на каждый алгоритм:: https://t.me/siliconchannel/71 
