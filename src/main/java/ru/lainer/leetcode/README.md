@@ -34,6 +34,9 @@ https://leetcode.com/problems/subsets/solutions/27281/a-general-approach-to-back
 
 Куча/Очередь с приоритетом (Heap (Priority Queue)): \
 [703] Easy. Kth Largest Element in a Stream
+
+Графы (Depth-First Search (DFS), Breadth-First Search (BFS): \
+[200] Medium. Number of Islands (DFS + BFS)
 0000000000000000000000000000000000000000000000000000000000000000 
 
 Список задач на каждый алгоритм:: https://t.me/siliconchannel/71 
