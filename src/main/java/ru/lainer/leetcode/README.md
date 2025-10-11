@@ -25,6 +25,8 @@ Cкользящие окна: \
 
 BFS/DFS: \
 [104] Easy. Maximum Depth Of Binary Tree \
+Файл "Solution0104A" - это решение задачи № 104 с использованием DFS(Depth-first search) -> вариант
+"Прямой обход (Pre-order traversal)" -> Вариант "Стек" \
 [226] Easy. Invert Binary Tree
 
 Backtracking: \
@@ -36,7 +38,10 @@ https://leetcode.com/problems/subsets/solutions/27281/a-general-approach-to-back
 [703] Easy. Kth Largest Element in a Stream
 
 Графы (Depth-First Search (DFS), Breadth-First Search (BFS): \
-[200] Medium. Number of Islands (DFS + BFS)
+Выше еще есть BFS/DFS \
+[200] Medium. Number of Islands (DFS + BFS) \
+!!!! Замечание:: реализовать BFS/DFS через рекурсию и через стек для бинарных деревьев и для графов
+!!!! Реализовать все виды обхода бинарного дерева через стек и через рекурсию::   
 0000000000000000000000000000000000000000000000000000000000000000 
 
 Список задач на каждый алгоритм:: https://t.me/siliconchannel/71 
@@ -131,3 +136,5 @@ https://leetcode.com/problems/jump-game/
 
 Еще есть RoadMap по алгоритмам:: \
 Храниться тут:: /home/source/Документы/DSA-28.06.2025/Pro_AlgoRoadMap.pdf
+
+Мой GitHub:: раздел "Data Structures and Algorithms (DSA)"
