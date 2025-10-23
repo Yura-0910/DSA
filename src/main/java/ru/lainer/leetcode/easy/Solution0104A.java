@@ -55,7 +55,7 @@ public class Solution0104A {
        * Сначала добавляем ПРАВОГО, потом ЛЕВОГО, так как стек работает по принципу LIFO
        * (Last-In-First-Out) и если бы сначала добавляли левый, а потом правый потомок, то
        * правый потомок бы извлекался раньше левого потомка и был бы не такой порядок,
-       * как при использвоании рекурсии в методе preOrderRecursion.
+       * как при использовании рекурсии в методе preOrderRecursion.
        */
       if (current.right != null) {
         stack.push(current.right);
@@ -80,7 +80,7 @@ public class Solution0104A {
   }
 
   /*
-   * DFS(Depth-first search) -> варианат "обратный обход(Post-order traversal)" -> Вариант "Стек"
+   * DFS(Depth-first search) -> вариант "Прямой обход (Pre-order traversal)" -> Вариант "Стек"
    * Здесь решение задачи 104.
    */
   public int maxDepth(TreeNode root) {
