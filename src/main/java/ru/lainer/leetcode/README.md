@@ -27,6 +27,8 @@ BFS/DFS: \
 [104] Easy. Maximum Depth Of Binary Tree \
 Файл "Solution0104A" - это решение задачи № 104 с использованием DFS(Depth-first search) -> вариант
 "Прямой обход (Pre-order traversal)" -> Вариант "Стек" \
+Файл "Solution0104B" - это в чистом виде DFS(Depth-first search) -> вариант "Симметричный обход 
+(In-order traversal)" -> Вариант "Стек" и вариант "Рекурсия" \
 [226] Easy. Invert Binary Tree
 
 Backtracking: \
