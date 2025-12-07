@@ -32,6 +32,8 @@ BFS/DFS: \
 (In-order traversal)" -> Вариант "Стек" и вариант "Рекурсия" \
 Файл "Solution0104C" - это в чистом виде DFS(Depth-first search) -> вариант "Обратный обход 
 (Post-order traversal)" -> Вариант "Стек" и вариант "Рекурсия" \
+Файл "Solution0104D" - это в чистом виде BFS(Breadth-First Search):: обход дерева уровень за 
+уровнем, слева направо -> Используя "Очередь" \
 [226] Easy. Invert Binary Tree
 
 Backtracking: \
