@@ -52,6 +52,9 @@ https://leetcode.com/problems/subsets/solutions/27281/a-general-approach-to-back
 
 ДП (Dynamic Programming): \
 [070] Easy. Climbing Stairs \
+
+Интервалы \
+[057] Medium. Insert Interval \
 0000000000000000000000000000000000000000000000000000000000000000 
 
 Список задач на каждый алгоритм:: https://t.me/siliconchannel/71 
